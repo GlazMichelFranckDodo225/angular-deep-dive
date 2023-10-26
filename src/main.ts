@@ -1,3 +1,4 @@
+// Entry Point of the App (like "main" method in Java)
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
 import { AppModule } from './app/app.module';
